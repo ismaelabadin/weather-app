@@ -13,7 +13,7 @@ function App() {
       <main>
         <Forecast />
       </main>
-      <footer>Page created by Ismael Abadin, dedicated to my lovely wife Asma Akhter</footer>
+      <footer>Page created by Ismael Abadin</footer>
     </div>
   );
 }
